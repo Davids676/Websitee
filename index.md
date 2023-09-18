@@ -1,4 +1,4 @@
 ---
-Post #1: Welcome to my website
+Title: Welcome to my website
 ---
 
