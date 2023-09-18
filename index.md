@@ -1,4 +1,4 @@
 ---
-Hello: Welcome to my website
+Title: Welcome to my website
 ---
 
